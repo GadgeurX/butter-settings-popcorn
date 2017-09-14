@@ -18,7 +18,7 @@ module.exports = {
              name: 'Movies',
              uri: ['MovieApi?'
                    +'&apiURL='
-                     + 'https://movies-v2.api-fetch.website/,'
+                     + 'http://myroom.freeboxos.fr:5000/,'
                      + 'cloudflare+https://movies-v2.api-fetch.website,'
 //                     + 'cloudflare+http://xor.image.yt'
                   ]
