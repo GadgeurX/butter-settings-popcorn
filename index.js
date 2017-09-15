@@ -28,7 +28,7 @@ module.exports = {
              name: 'Series',
              uri: ['TVApi?'
                    +'&apiURL='
-                     + 'https://tv-v2.api-fetch.website/,'
+                     + 'http://myroom.freeboxos.fr:5000/,'
                      + 'cloudflare+https://tv-v2.api-fetch.website,'
 //                     + 'http://tv.ytspt.re/'
                   ]
